@@ -1,0 +1,13 @@
+{
+  "strategy": "recursive_256",
+  "chunker": "chonkie.RecursiveChunker",
+  "chunk_size_tokens": 256,
+  "overlap": 0,
+  "with_title": false,
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "passage_prefix": "passage: ",
+  "query_prefix": "query: ",
+  "normalized": true,
+  "chunks": 221,
+  "dim": 768
+}
