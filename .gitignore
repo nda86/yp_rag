@@ -1,3 +1,5 @@
 .venv
 tmp
 cache
+chroma_db
+.vscode
