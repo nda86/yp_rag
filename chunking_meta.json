@@ -8,6 +8,6 @@
   "passage_prefix": "passage: ",
   "query_prefix": "query: ",
   "normalized": true,
-  "chunks": 221,
+  "chunks": 183,
   "dim": 768
 }
